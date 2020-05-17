@@ -77,3 +77,8 @@ f = open("index.html", "w")
 f.write(str(content))
 f.close()
 
+# Github page
+f = open("index.md", "w")
+f.write(str(content))
+f.close()
+
