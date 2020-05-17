@@ -1,0 +1,114 @@
+Collecte de donnees   Divers hardware         Divers software             Machine-Learning                             
+et dataviz            
+                      MaskAttacks             Coordination-dispo-lits                                                  
+Trauma-prevent                                                            CAST                                         
+                      Mise en place d'une     Hub visant à relier 3                                                    
+Cet outil contributif plateforme de           applications de partages de Simulation des mouvements, au sein d'une     
+sert à développer des logistique pour         lits aux logiciels des ARS, population, dans le but de suivre            
+méthodes de           fabriquer des masques   dont 1 issue de             l'évolution des personnes infectées afin de  
+préventions des       en recrutant des        dataagainstcovid19, 1 issue prévoir le nombre de personne dans les       
+conséquences          couturier pro et semi   d'une autre initiative et 1 différents états, plus particulièrement le   
+traumatiques du       pro et les livrer aux   issue de l'INRIA            nombre de personnes hospitalisées, en        
+COVID.                établissements qui en                               réanimation ainsi que les décès à venir      
+                      font la demande         Damien Jacomy, Antoine                                                   
+Thomas Gargot                                 Biard, Olivier Frambon      Manuel Capel
+                      Damien Jacomy           
+                      MaskUpFrance                                                                                     
+                                                                                                                       
+Coronastatus          Pour proposer une                                                                                
+                      solution face à                                                                                  
+Cet outil contributif l'urgence de la                                                                                  
+sert à récolter de la production de masques                               covid19-incrementality                       
+donnée ouverte auprès barrières et de         Covid-data                                                               
+des populations       sur-blouses, nous avons (lits/materiels/personnels) Utiliser une approche d'incrémentalité,      
+confinées afin de     construit une chaîne de                             basée sur les nombres de décès toutes causes 
+mieux évaluer le      solidarité autour de    Application de partages de  confondues, pour estimer le nombre de décès  
+nombre de cas réels   plusieurs acteurs,      lits/materiels/personnels   du COVID-19 en France
+présents sur le       comme les               
+territoire français   couturiers/couturières, Raphael Lasseri             Jerome Hugueny, Sébastien Crouzet, David
+et prédire la         les associations                                    Bessis, Lior Perez, Louis Korczowski,
+propagation du virus. locales, les                                        Frédéric Boisguérin, Nathan Desdouits
+                      entreprises textiles et 
+Raphaelle             les collectivités       
+Bertrand-Lalo         territoriales.          
+                                              
+                      Romain Tavee            
+veille-coronavirus    Des objets qui limitent Cord-19                     Covid19model-fr/Covidmodel-fr-regions-france 
+                      la propagation du virus                                                                          
+Cet outil contributif                         Recherche de mots-clés dans Estimer au plus près l'impact de cinq        
+tente de proposer une Exemple: une poignée de +29500 articles             interventions politiques (distanciation      
+vision consolidée des porte fonctionnant à    scientifiques, les mots     physique, confinement, annulation des grands 
+données officielles   partir d'une pédale,    clés sont générés en        événements, fermeture des écoles et          
+disponibles - repris  pour ouvrir toutes les  utilisant un modèle NLP à   université, mise en quarantaine des          
+par Etalab            portes d'un geste du    partir de 7 facteurs de     personnes infectée) sur la courbe des décès  
+                      pied                    risques liés au covid-19    liés à la pandémie                           
+Jérôme Desboeufs                                                                                                       
+                      Ludovic Haehnsen        Michael John Hatchi         Alexandre Payot                              
+                                              template HTML pour la                                                    
+                                              validation des résultats                                                 
+Tableau monde covid19                         covid-19 en q-PCR (outil de                                              
+                                              travail)                    COVID-19 World Forecasts & Trends            
+Tableau de bord Monde                                                                                                  
+/ Région /                                    A partir de données         Acquérir les données dans un cluster         
+Département pour                              préalablement parsées en    Elasticsearch et prédiction des prochaines   
+suivre l'évolution de                         JSON, construction d'une    valeurs au moyen d'un modèle interne
+la maladie Covid-19                           page web static permettant  
+                                              la validation rapide des    Michael Vergoz
+Jerome Hugueny                                résultats                   
+                                                                          
+                                              Sacha Schutz                
+Covidoscope                                   covid-data (academics)      
+                                                                          
+Visualisation des                             Base documentaire à         
+données hospitalières                         l'attention des             
+qui combine les                               professionnels de santé     
+dimensions                                    rassemblant les             
+géographiques et                              recommandations des         
+temporelles dans une                          sociétés savantes et les    
+vue synthétique                               guides méthodologiques des  
+                                              autorités de santé          
+Alain Ottenheimer                                                         
+                                              Caroline Allix-Béguec       
+world-datas-analysis                                                      
+                                              Pharm'Help                  
+Outil d'harmonisation                                                     
+de données, le but                            Ajout d'une cartographie a  
+est de télécharger                            un système permettant aux   
+automatiquement et                            pharmaciens de communiquer  
+d'harmoniser ces                              leur besoins aux étudiants  
+données provenant de                          pouvant rendre service.     
+diverse sources                                                           
+                                              Sébastien Cossin
+Bruno Adelé           
+Chiffres clés                                                             
+concernant l'épidémie                         Covid19-faq                 
+de Covid19                                                                
+                                              Les questions et réponses   
+Visualisation pour                            de l'administration         
+chaque département                            publique. Initiative non    
+des chiffres                                  officielle, référez-vous    
+officiels sur base                            aux sources en cas de       
+linéaire et                                   doute.                      
+logarithmique (au                                                         
+choix)                                        Bastien Guery
+                      
+Yannick Bochatay      
+Cas confirmés                                 Edition-du-soir-report      
+d'infection au                                                            
+COVID-19 par région                           Eclairage quotidien des     
+                                              chiffres via le commentaire 
+Outil de scraping de                          d'un expert                 
+données                                                                   
+                                              Guillaume Ferron, Maxence   
+Bastien Guery                                 Taeib, Abdoulaye Diallo,    
+                                              Sandrine Henry              
+calcul de                                     OpenStopCovid               
+surmortalité lié à                                                        
+Covid19                                       Solution de contact tracing 
+                                              décentralisée 100 % libre   
+Analyse des décès                             et issue de la société      
+incrémentaux liés à                           civile (application mobile, 
+la pandémie                                   interface medecin, serveur  
+                                              mircoservices)              
+Nathan Desdouits                                                          
+                                              Jérome Desboeufs            
