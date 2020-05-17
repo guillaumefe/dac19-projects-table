@@ -52,20 +52,16 @@ Collecte de donnees et dataviz:
     
 Divers hardware: 
   - 
-    description: "Mise en place d'une plateforme de logistique pour fabriquer des masques en recrutant des couturier pro et semi pro et les livrer aux établissements qui en font la demande"
-    livrable: "https://app.slack.com/client/TUQTGE7FU/C011D3WPV38/thread/C0104P6HVQU-1586008753.046300"
-    name: "MaskAttacks"
-    contact: Damien Jacomy
-  - 
     description: "Pour proposer une solution face à l'urgence de la production de masques barrières et de sur-blouses, nous avons construit une chaîne de solidarité  autour de plusieurs acteurs, comme les couturiers/couturières, les associations locales, les entreprises textiles et les collectivités territoriales."
     livrable: "https://www.facebook.com/MaskUpFrance"
     name: "MaskUpFrance"
-    contact: Romain Tavee
+    contact: Damien Jacomy, Romain Tavee
   - 
     description: "Exemple: une poignée de porte fonctionnant à partir d'une pédale, pour ouvrir toutes les portes d'un geste du pied"
     livrable: "https://dataagainstcovid-19.slack.com/files/U010VHVDKB9/F011LLCSTAB/img_3698.mov"
     name: "Des objets qui limitent la propagation du virus"
     contact: Ludovic Haehnsen
+  -
   -
   -
   -

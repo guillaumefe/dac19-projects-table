@@ -15,9 +15,9 @@
                     <p style="font-size:0.8em"><b>Contact: </b>Thomas Gargot</p>
                     </td>
 <td style="padding: 1rem" >
-                    <b style="font-size:0.9em"><a href="https://app.slack.com/client/TUQTGE7FU/C011D3WPV38/thread/C0104P6HVQU-1586008753.046300">MaskAttacks</a></b><br> 
-                    <p style="font-size:0.8em">Mise en place d'une plateforme de logistique pour fabriquer des masques en recrutant des couturier pro et semi pro et les livrer aux établissements qui en font la demande</p> 
-                    <p style="font-size:0.8em"><b>Contact: </b>Damien Jacomy</p>
+                    <b style="font-size:0.9em"><a href="https://www.facebook.com/MaskUpFrance">MaskUpFrance</a></b><br> 
+                    <p style="font-size:0.8em">Pour proposer une solution face à l'urgence de la production de masques barrières et de sur-blouses, nous avons construit une chaîne de solidarité  autour de plusieurs acteurs, comme les couturiers/couturières, les associations locales, les entreprises textiles et les collectivités territoriales.</p> 
+                    <p style="font-size:0.8em"><b>Contacts: </b>Damien Jacomy, Romain Tavee</p>
                     </td>
 <td style="padding: 1rem" >
                     <b style="font-size:0.9em"><a href="https://github.com/opencovid19-fr/coordination-dispo-lits">Coordination-dispo-lits</a></b><br> 
@@ -37,9 +37,9 @@
                     <p style="font-size:0.8em"><b>Contact: </b>Raphaelle Bertrand-Lalo</p>
                     </td>
 <td style="padding: 1rem" >
-                    <b style="font-size:0.9em"><a href="https://www.facebook.com/MaskUpFrance">MaskUpFrance</a></b><br> 
-                    <p style="font-size:0.8em">Pour proposer une solution face à l'urgence de la production de masques barrières et de sur-blouses, nous avons construit une chaîne de solidarité  autour de plusieurs acteurs, comme les couturiers/couturières, les associations locales, les entreprises textiles et les collectivités territoriales.</p> 
-                    <p style="font-size:0.8em"><b>Contact: </b>Romain Tavee</p>
+                    <b style="font-size:0.9em"><a href="https://dataagainstcovid-19.slack.com/files/U010VHVDKB9/F011LLCSTAB/img_3698.mov">Des objets qui limitent la propagation du virus</a></b><br> 
+                    <p style="font-size:0.8em">Exemple: une poignée de porte fonctionnant à partir d'une pédale, pour ouvrir toutes les portes d'un geste du pied</p> 
+                    <p style="font-size:0.8em"><b>Contact: </b>Ludovic Haehnsen</p>
                     </td>
 <td style="padding: 1rem" >
                     <b style="font-size:0.9em"><a href="https://covid-data.fr/">Covid-data (lits/materiels/personnels)</a></b><br> 
@@ -58,11 +58,7 @@
                     <p style="font-size:0.8em">Cet outil contributif tente de proposer une vision consolidée des données officielles disponibles - repris par Etalab</p> 
                     <p style="font-size:0.8em"><b>Contact: </b>Jérôme Desboeufs</p>
                     </td>
-<td style="padding: 1rem" >
-                    <b style="font-size:0.9em"><a href="https://dataagainstcovid-19.slack.com/files/U010VHVDKB9/F011LLCSTAB/img_3698.mov">Des objets qui limitent la propagation du virus</a></b><br> 
-                    <p style="font-size:0.8em">Exemple: une poignée de porte fonctionnant à partir d'une pédale, pour ouvrir toutes les portes d'un geste du pied</p> 
-                    <p style="font-size:0.8em"><b>Contact: </b>Ludovic Haehnsen</p>
-                    </td>
+<td style="padding: 1rem" ></td>
 <td style="padding: 1rem" >
                     <b style="font-size:0.9em"><a href="https://github.com/MikeHatchi/CORD-19">Cord-19</a></b><br> 
                     <p style="font-size:0.8em">Recherche de mots-clés dans +29500 articles scientifiques, les mots clés sont générés en utilisant un modèle NLP à partir de 7 facteurs de risques liés au covid-19</p> 
