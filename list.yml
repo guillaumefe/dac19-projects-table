@@ -1,0 +1,152 @@
+--- 
+# 25 projets
+
+Collecte de donnees et dataviz: 
+  - 
+    description: "Cet outil contributif sert à développer des méthodes de préventions des conséquences traumatiques du COVID."
+    livrable: "https://proto-trauma-prevent.herokuapp.com/"
+    name: "Trauma-prevent"
+    contact: Thomas Gargot
+  - 
+    description: "Cet outil contributif sert à récolter de la donnée ouverte auprès des populations confinées afin de mieux  évaluer le nombre de cas réels présents sur le territoire français et prédire la propagation du virus."
+    livrable: "https://github.com/alexisthual/symptoms-tracker"
+    name: "Coronastatus"
+    contact: Raphaelle Bertrand-Lalo
+  - 
+    description: "Cet outil contributif tente de proposer une vision consolidée des données officielles disponibles - repris par Etalab"
+    livrable: "https://veille-coronavirus.fr"
+    name: "veille-coronavirus"
+    contact: Jérôme Desboeufs
+  - 
+    description: "Tableau de bord Monde / Région / Département pour suivre l'évolution de la maladie Covid-19"
+    livrable: "https://tiny.cc/covidfr"
+    name: "Tableau monde covid19"
+    contact: Jerome Hugueny
+  - 
+    description: "Visualisation des données hospitalières qui combine les dimensions géographiques et temporelles dans une vue synthétique"
+    livrable: "http://www.toulouse-dataviz.fr/covidoscope/html/index_covidOscope.html"
+    name: "Covidoscope"
+    contact: Alain Ottenheimer
+  - 
+    description: "Outil d'harmonisation de données, le but est de télécharger automatiquement et d'harmoniser ces données provenant de diverse sources"
+    livrable: "https://github.com/badele/world-datas-analysis/"
+    name: "world-datas-analysis"
+    contact: Bruno Adelé
+  - 
+    description: "Visualisation pour chaque département des chiffres officiels sur base linéaire et logarithmique (au choix)"
+    livrable: "https://yannickbochatay.github.io/covid-19/build/"
+    name: "Chiffres clés concernant l'épidémie de Covid19"
+    contact: Yannick Bochatay
+  - 
+    description: "Outil de scraping de données"
+    livrable: "https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/"
+    name: "Cas confirmés d'infection au COVID-19 par région"
+    contact: Bastien Guery
+  - 
+    description: "Analyse des décès incrémentaux liés à la pandémie"
+    livrable: "https://dataagainstcovid-19.slack.com/archives/C010WLDLSR3/p1589193342459100"
+    name: "calcul de surmortalité lié à Covid19"
+    contact: Nathan Desdouits
+    
+    
+    
+Divers hardware: 
+  - 
+    description: "Mise en place d'une plateforme de logistique pour fabriquer des masques en recrutant des couturier pro et semi pro et les livrer aux établissements qui en font la demande"
+    livrable: "https://app.slack.com/client/TUQTGE7FU/C011D3WPV38/thread/C0104P6HVQU-1586008753.046300"
+    name: "MaskAttacks"
+    contact: Damien Jacomy
+  - 
+    description: "Pour proposer une solution face à l'urgence de la production de masques barrières et de sur-blouses, nous avons construit une chaîne de solidarité  autour de plusieurs acteurs, comme les couturiers/couturières, les associations locales, les entreprises textiles et les collectivités territoriales."
+    livrable: "https://www.facebook.com/MaskUpFrance"
+    name: "MaskUpFrance"
+    contact: Romain Tavee
+  - 
+    description: "Exemple: une poignée de porte fonctionnant à partir d'une pédale, pour ouvrir toutes les portes d'un geste du pied"
+    livrable: "https://dataagainstcovid-19.slack.com/files/U010VHVDKB9/F011LLCSTAB/img_3698.mov"
+    name: "Des objets qui limitent la propagation du virus"
+    contact: Ludovic Haehnsen
+  -
+  -
+  -
+  -
+  -
+  -
+    
+    
+    
+Divers software: 
+  - 
+    description: "Hub visant à relier 3 applications de partages de lits aux logiciels des ARS, dont 1 issue de dataagainstcovid19, 1 issue d'une  autre initiative et 1 issue de l'INRIA"
+    livrable: "https://github.com/opencovid19-fr/coordination-dispo-lits"
+    name: "Coordination-dispo-lits"
+    contact: Damien Jacomy, Antoine Biard, Olivier Frambon
+  - 
+    description: "Application de partages de lits/materiels/personnels"
+    livrable: "https://covid-data.fr/"
+    name: "Covid-data (lits/materiels/personnels)"
+    contact: Raphael Lasseri
+  - 
+    description: "Recherche de mots-clés dans +29500 articles scientifiques, les mots clés sont générés en utilisant un modèle NLP à partir de 7 facteurs de risques liés au covid-19"
+    livrable: "https://github.com/MikeHatchi/CORD-19"
+    name: "Cord-19"
+    contact: Michael John Hatchi
+  - 
+    description: "A partir de données préalablement parsées en JSON, construction d'une page web static permettant la validation rapide des résultats"
+    livrable: "https://github.com/dridk/qpcr_covid_template/blob/master/render.html"
+    name: "template HTML pour la validation des résultats covid-19 en q-PCR (outil de travail)"
+    contact: Sacha Schutz
+  - 
+    description: "Base documentaire à l'attention des professionnels de santé rassemblant les recommandations des sociétés  savantes et les guides méthodologiques des autorités de santé"
+    livrable: "http://covid-data.fr/"
+    name: "covid-data (academics)"
+    contact: Caroline Allix-Béguec
+  - 
+    description: "Ajout d'une cartographie a un système permettant aux pharmaciens de communiquer leur besoins aux étudiants pouvant rendre service."
+    livrable: "https://www.pharmhelp.anepf.org/"
+    name: "Pharm'Help"
+    contact: Sébastien Cossin
+  - 
+    description: "Les questions et réponses de l'administration publique. Initiative non officielle, référez-vous aux sources en cas de doute."
+    livrable: "https://www.covid19-faq.fr/"
+    name: "Covid19-faq"
+    contact: Bastien Guery
+  - 
+    description: "Eclairage quotidien des chiffres via le commentaire d'un expert"
+    livrable: "https://github.com/guillaumefe/edition-du-soir-report"
+    name: "Edition-du-soir-report"
+    contact: Guillaume Ferron, Maxence Taeib, Abdoulaye Diallo, Sandrine Henry
+  - 
+    description: "Solution de contact tracing décentralisée 100 % libre et issue de la société civile (application mobile, interface medecin, serveur mircoservices)"
+    livrable: "https://openstopcovid.fr/"
+    name: "OpenStopCovid"
+    contact: Jérome Desboeufs
+    
+    
+    
+Machine-Learning: 
+  - 
+    description: "Simulation des mouvements, au sein d'une population, dans le but de suivre l'évolution des personnes infectées afin de prévoir le nombre de personne dans les différents états, plus particulièrement le nombre de personnes hospitalisées, en réanimation ainsi que les décès à venir"
+    livrable: "https://github.com/parcoor/py-propagsim"
+    name: "CAST"
+    contact: Manuel Capel
+  - 
+    description: "Utiliser une approche d'incrémentalité, basée sur les nombres de décès toutes causes confondues, pour estimer le nombre de décès du COVID-19 en France"
+    livrable: "https://github.com/scrouzet/covid19-incrementality"
+    name: "covid19-incrementality"
+    contact: Jerome Hugueny, Sébastien Crouzet, David Bessis, Lior Perez, Louis Korczowski, Frédéric Boisguérin, Nathan Desdouits
+  - 
+    description: "Estimer au plus près l'impact de cinq interventions politiques (distanciation physique, confinement, annulation des grands événements,  fermeture des écoles et université, mise en quarantaine des personnes infectée) sur la courbe des décès liés à la pandémie"
+    livrable: "https://github.com/payoto/covid19model-fr-regions-results/blob/master/public_reports/france_report/france_report.md"
+    name: Covid19model-fr/Covidmodel-fr-regions-france
+    contact: Alexandre Payot
+  - 
+    description: "Acquérir les données dans un cluster Elasticsearch et prédiction des prochaines valeurs au moyen d'un modèle interne"
+    livrable: "https://covid.calyps.ch/coronavirus/covid19/country/France"
+    name: "COVID-19 World Forecasts & Trends"
+    contact: Michael Vergoz
+  -
+  -
+  -
+  -
+  -
