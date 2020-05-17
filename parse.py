@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 
 import yaml
 
@@ -32,10 +32,11 @@ class HTML:
         temp_row = f'\n<tr {trStyles} >'
         for td in row:
             if td:
+                contact = 'Contacts' if len(td['contact'].split(',')) > 1 else 'Contact'
                 content = f'''
                     <b style="font-size:0.9em"><a href="{td["livrable"]}">{td["name"]}</a></b><br> 
                     <p style="font-size:0.8em">{td["description"]}</p> 
-                    <p style="font-size:0.8em">{td["contact"]}</p>
+                    <p style="font-size:0.8em"><b>{contact}: </b>{td["contact"]}</p>
                     '''
             else:
                 content = ''
@@ -47,9 +48,9 @@ class HTML:
 
     def __str__(self):
 
-
         return \
 f'''
+<meta charset="UTF-8">
 <table {self.tableStyles} >
 {self.Header}
 {''.join(self.rows)}
